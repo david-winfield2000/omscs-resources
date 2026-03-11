@@ -6,7 +6,7 @@ Feel free to share with others!
 
 ## Links
 
-### Daily
+### Frequently Used
 
 * [OMSCS Subreddit](https://www.reddit.com/r/OMSCS/)
 * [Canvas](https://gatech.instructure.com/)
