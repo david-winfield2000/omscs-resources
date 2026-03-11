@@ -6,6 +6,11 @@ Feel free to share with others!
 
 ## Links
 
+### Daily
+
+* [Canvas](https://gatech.instructure.com/)
+* [BuzzPort](https://buzzport.gatech.edu/secure/student)
+
 ### Planning + Registration
 
 Official GT resources
@@ -19,10 +24,3 @@ Community run resources
 * [OMS Central - Course Reviews](https://www.omscentral.com/)
 * [Course Critique](https://critique.gatech.edu/)
 * [OMSCS Rocks - Course Availability](https://omscs.rocks/)
-
-
-### Daily
-
-* [Canvas](https://gatech.instructure.com/)
-* [BuzzPort](https://buzzport.gatech.edu/secure/student)
-
