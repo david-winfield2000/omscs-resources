@@ -11,11 +11,13 @@ Feel free to share with others!
 Official GT resources
 * [List of Specializations](https://omscs.gatech.edu/specializations)
 * [Course Catalog](https://omscs.gatech.edu/current-courses)
+* [Academic Calendar](https://registrar.gatech.edu/info/current-academic-calendar)
 
 Community run resources
 * [Course Planner](https://omscscourseplanner.com/)
 * [OMSHUB - Course Reviews](https://www.omshub.org/)
 * [OMS Central - Course Reviews](https://www.omscentral.com/)
+* [Course Critique](https://critique.gatech.edu/)
 * [OMSCS Rocks - Course Availability](https://omscs.rocks/)
 
 
@@ -23,3 +25,4 @@ Community run resources
 
 * [Canvas](https://gatech.instructure.com/)
 * [BuzzPort](https://buzzport.gatech.edu/secure/student)
+
