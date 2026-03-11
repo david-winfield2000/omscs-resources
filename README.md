@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# omscs-resources
-=======
 # OMSCS Resources
 
 This is a place to put all the helpful OMSCS related links that I use in the program.
