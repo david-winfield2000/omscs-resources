@@ -48,4 +48,4 @@ Courses I'm planning to take:
 * Machine Learning (ML)
 * Deep Learning (DL)
 * Reinforcement Learning and Decision Making (RL)
-* 3 other courses
+* 3 other courses...
