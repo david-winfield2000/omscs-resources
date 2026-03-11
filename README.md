@@ -28,3 +28,24 @@ Course reviews
 * [OMSHUB - Course Reviews](https://www.omshub.org/)
 * [OMS Central - Course Reviews](https://www.omscentral.com/)
 * [Course Critique](https://critique.gatech.edu/)
+
+## My Roadmap
+
+Specialization: I'm thinking something between AI, ML, and Systems Computing
+
+Courses I've taken:
+
+* Machine Learning for Trading (ML4T)
+* Artificial Intelligence (AI)
+
+Current courses:
+
+* Graduate Intro to Operating Systems (GIOS)
+
+Courses I'm planning to take:
+
+* Introduction to Graduate Algorithms (GA)
+* Machine Learning (ML)
+* Deep Learning (DL)
+* Reinforcement Learning and Decision Making (RL)
+* + 3 other courses
