@@ -20,4 +20,3 @@ Feel free to share with others!
 
 [Canvas](https://gatech.instructure.com/)
 [Buzzport](https://buzzport.gatech.edu/secure/student)
->>>>>>> 6bc3398 (Initial commit)
