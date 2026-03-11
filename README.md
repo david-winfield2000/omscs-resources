@@ -8,6 +8,7 @@ Feel free to share with others!
 
 ### Daily
 
+* [OMSCS Subreddit](https://www.reddit.com/r/OMSCS/)
 * [Canvas](https://gatech.instructure.com/)
 * [BuzzPort](https://buzzport.gatech.edu/secure/student)
 
