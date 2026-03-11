@@ -8,15 +8,18 @@ Feel free to share with others!
 
 ### Planning + Registration
 
-[List of Specializations](https://omscs.gatech.edu/specializations)
-[Course Planner](https://omscscourseplanner.com/)
-[Course Catalog](https://omscs.gatech.edu/current-courses)
-[OMSHUB - Course Reviews](https://www.omshub.org/)
-[OMS Central - Course Reviews](https://www.omscentral.com/)
-[OMSCS Rocks - Course Availability](https://omscs.rocks/)
+Official GT resources
+* [List of Specializations](https://omscs.gatech.edu/specializations)
+* [Course Catalog](https://omscs.gatech.edu/current-courses)
+
+Community run resources
+* [Course Planner](https://omscscourseplanner.com/)
+* [OMSHUB - Course Reviews](https://www.omshub.org/)
+* [OMS Central - Course Reviews](https://www.omscentral.com/)
+* [OMSCS Rocks - Course Availability](https://omscs.rocks/)
 
 
 ### Daily
 
-[Canvas](https://gatech.instructure.com/)
-[Buzzport](https://buzzport.gatech.edu/secure/student)
+* [Canvas](https://gatech.instructure.com/)
+* [BuzzPort](https://buzzport.gatech.edu/secure/student)
