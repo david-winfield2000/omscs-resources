@@ -18,6 +18,7 @@ Official GT resources
 * [Specializations](https://omscs.gatech.edu/specializations)
 * [Course Catalog](https://omscs.gatech.edu/current-courses)
 * [Academic Calendar](https://registrar.gatech.edu/info/current-academic-calendar)
+* [Degree Requirements](https://omscs.gatech.edu/degree-requirements)
 
 Community planning resources
 * [Course Planner](https://omscscourseplanner.com/)
