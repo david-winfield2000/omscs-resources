@@ -25,8 +25,8 @@ Community planning resources
 
 Course reviews
 
-* [OMSHUB - Course Reviews](https://www.omshub.org/)
-* [OMS Central - Course Reviews](https://www.omscentral.com/)
+* [OMSHUB](https://www.omshub.org/)
+* [OMS Central](https://www.omscentral.com/)
 * [Course Critique](https://critique.gatech.edu/)
 
 ## My Roadmap
