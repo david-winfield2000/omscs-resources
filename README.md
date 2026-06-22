@@ -38,10 +38,11 @@ Courses I've taken:
 
 * Machine Learning for Trading (ML4T)
 * Artificial Intelligence (AI)
+* Graduate Intro to Operating Systems (GIOS)
 
 Current courses:
 
-* Graduate Intro to Operating Systems (GIOS)
+* No courses, taking the summer off
 
 Courses I'm planning to take:
 
