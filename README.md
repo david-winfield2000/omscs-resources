@@ -45,7 +45,8 @@ Current courses:
 
 Courses I'm planning to take:
 
-- Introduction to Graduate Algorithms (GA)
 - Deep Learning (DL)
 - Reinforcement Learning and Decision Making (RL)
+- Software Development Process (SDP)
+- Game AI
 - 3 other courses...
